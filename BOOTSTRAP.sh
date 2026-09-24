@@ -7,20 +7,27 @@ REPO="AbedAlrifae/easy-english-pipeline"
 ROOT="/home/user/eng"
 TOKFILE="/home/user/.ghtok"
 
+# A token is optional: without one the public raw URL is used.
 TOK="${1:-${GH_TOKEN:-}}"
 if [ -z "$TOK" ] && [ -f "$TOKFILE" ]; then TOK=$(cat "$TOKFILE"); fi
-if [ -z "$TOK" ]; then echo "FATAL: no GitHub token (pass as \$1 or set GH_TOKEN)"; exit 1; fi
-umask 077; printf '%s' "$TOK" > "$TOKFILE"
+if [ -n "$TOK" ]; then umask 077; printf '%s' "$TOK" > "$TOKFILE"; fi
 
 mkdir -p "$ROOT/scripts" "$ROOT/ep" "$ROOT/voices"
 
 echo "[1/3] fetching scripts from $REPO"
 for f in synth.py render.py level_check.py frame_check.py; do
-  code=$(curl -sL -w '%{http_code}' -o "$ROOT/scripts/$f" \
-      -H "Authorization: Bearer $TOK" -H "Accept: application/vnd.github.raw" \
-      "https://api.github.com/repos/$REPO/contents/scripts/$f")
+  if [ -n "$TOK" ]; then
+    code=$(curl -sL -w '%{http_code}' -o "$ROOT/scripts/$f" \
+        -H "Authorization: Bearer $TOK" -H "Accept: application/vnd.github.raw" \
+        "https://api.github.com/repos/$REPO/contents/scripts/$f")
+  else
+    code=$(curl -sL -w '%{http_code}' -o "$ROOT/scripts/$f" \
+        "https://raw.githubusercontent.com/$REPO/main/scripts/$f")
+  fi
   if [ "$code" != "200" ] || [ ! -s "$ROOT/scripts/$f" ]; then
-    echo "FATAL: could not fetch $f (HTTP $code)"; exit 1
+    echo "FATAL: could not fetch $f (HTTP $code)."
+    echo "If the repo is private, pass a token: bash BOOTSTRAP.sh github_pat_..."
+    exit 1
   fi
   echo "      scripts/$f  $(wc -c < "$ROOT/scripts/$f") bytes"
 done
