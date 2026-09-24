@@ -39,7 +39,7 @@ Idempotent - if a later call fails with "No such file or directory" under
 | pause | 0.85 | 0.6 |
 | min-zipf | 4.3 | 3.8 |
 | max-words | 12 | 18 |
-| target words | 930-960 | 1150-1250 |
+| target words | re-measure (see below) | 1620-1660 |
 | bg / accent | `#1a2332` / `#f5b942` | `#12141c` / `#7ec8e3` |
 | label | `A2  .  Elementary` | `B1  .  Intermediate` |
 
@@ -64,3 +64,18 @@ Idempotent - if a later call fails with "No such file or directory" under
 `uploadStatus == "processed"`, then publish.
 
 Channel: `UCDv-d97vGkYE5VgjK2bomPg`
+
+## Measured pacing (pipeline rebuilt 2026-09-24)
+
+The old word targets were calibrated against the previous synth implementation and
+are too low for this one. Measured with the current `synth.py`:
+
+- **B1 / ryan-high, length-scale 1.45, pause 0.6**: 1640 words / 157 sentences -> 630.8s (10m30s).
+  Rate ~0.385 s per word including pauses. Target 1620-1660 words.
+- **A2 / amy-low, length-scale 1.55, pause 0.85**: not yet measured on a full episode.
+  The old 930-960 figure is almost certainly too short. Write ~1250 words, run synth,
+  read `duration_sec` from `ep/audio_meta.json`, and extend the story before rendering
+  if it comes in under 600s. Then record the real number here.
+
+Never change `--length-scale` or `--pause` to hit the length: those set how the
+narration sounds for learners. Change the word count instead.
