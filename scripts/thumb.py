@@ -4,8 +4,29 @@ import argparse, math, random
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
 W, H = 1280, 720
-FB = '/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf'
-FR = '/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf'
+def _font(bold=True):
+    """Find a usable sans font: bundled fonts/ dir, EES_FONT_DIR, then system paths."""
+    import os
+    names = (['DejaVuSans-Bold.ttf', 'Arial Bold.ttf', 'arialbd.ttf', 'Helvetica.ttc']
+             if bold else
+             ['DejaVuSans.ttf', 'Arial.ttf', 'arial.ttf', 'Helvetica.ttc'])
+    dirs = [os.environ.get('EES_FONT_DIR', ''),
+            os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'fonts'),
+            'fonts',
+            '/usr/share/fonts/truetype/dejavu',
+            '/System/Library/Fonts/Supplemental',
+            '/Library/Fonts',
+            '/System/Library/Fonts',
+            'C:\\Windows\\Fonts']
+    for d in dirs:
+        for n in names:
+            if d and os.path.exists(os.path.join(d, n)):
+                return os.path.join(d, n)
+    raise SystemExit('no usable font found; set EES_FONT_DIR')
+
+
+FB = _font(True)
+FR = _font(False)
 
 
 def hexrgb(s):
