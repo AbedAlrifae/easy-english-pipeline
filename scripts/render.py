@@ -4,8 +4,29 @@ import argparse, os, re, subprocess, sys
 from PIL import Image, ImageDraw, ImageFont
 
 W, H = 1920, 1080
-FONT_B = '/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf'
-FONT_R = '/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf'
+def _font(bold=True):
+    """Find a usable sans font: bundled fonts/ dir, EES_FONT_DIR, then system paths."""
+    import os
+    names = (['DejaVuSans-Bold.ttf', 'Arial Bold.ttf', 'arialbd.ttf', 'Helvetica.ttc']
+             if bold else
+             ['DejaVuSans.ttf', 'Arial.ttf', 'arial.ttf', 'Helvetica.ttc'])
+    dirs = [os.environ.get('EES_FONT_DIR', ''),
+            os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'fonts'),
+            'fonts',
+            '/usr/share/fonts/truetype/dejavu',
+            '/System/Library/Fonts/Supplemental',
+            '/Library/Fonts',
+            '/System/Library/Fonts',
+            'C:\\Windows\\Fonts']
+    for d in dirs:
+        for n in names:
+            if d and os.path.exists(os.path.join(d, n)):
+                return os.path.join(d, n)
+    raise SystemExit('no usable font found; set EES_FONT_DIR')
+
+
+FONT_B = _font(True)
+FONT_R = _font(False)
 SAFE_TOP = 600          # nothing bright below this row: subtitles own the lower third
 
 def hex2rgb(h):
