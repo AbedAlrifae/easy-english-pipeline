@@ -58,6 +58,9 @@ Measured word counts, target 600-660s:
 
 - **A2 podcast, two speakers, kokoro speed 0.78 / pause 0.40**: 1518 words /
   224 sentences -> **657.6s**. About 0.43 s/word including pauses.
+- **B1 podcast, two speakers, kokoro fp16 speed 0.82 / pause 0.45**: 1523 words /
+  179 sentences -> **636.2s** (first draft 1621 words / 194 sentences -> 681.0s).
+  About 0.42 s/word including pauses. Write about 1500-1550 words.
 - **B1 solo, piper ryan-high, length-scale 1.45 / pause 0.6**: 1640 words /
   157 sentences -> 630.8s. About 0.385 s/word.
 
