@@ -1,365 +1,81 @@
-A: Hello, and welcome to Easy English Stories.
+A: Hello, and welcome to Mystery Nights, the B1 story podcast from Easy English Stories. I am Maya.
 
-A: My name is Maya.
+B: And I am Tom. Hello, everybody. Tonight we have a small mystery, and it starts with a trend.
 
-B: And I am Tom. Hello, everybody.
+A: Yes. Right now, a lot of people online are doing the ancestor photo trend. You find a very old photo of a stranger. You send it to your parents, and you say, look, this is our ancestor.
 
-A: Today we have a new story for you.
+B: Wait, Maya. Before we go on, what is an ancestor?
 
-A: It is about coffee, and about a very small kitchen.
+A: Good question. An ancestor is a person in your family who lived a long time before you. Your grandmother is family. Her grandmother is your ancestor.
 
-B: Before we start, tell people about the level.
+B: So the joke is that the stranger in the photo is not really your ancestor.
 
-A: Yes. This story is for level A2.
+A: Exactly. The parents are confused, and everybody laughs. But tonight, the game does not go as planned. This story is at level B1, so listen for three words. The first word is ancestor. The other two will come later.
 
-A: We speak slowly. The words are simple.
+B: I am ready. Let us go.
 
-B: And there are words on the screen.
+A: Nora was twenty four years old. She lived in a small apartment in the city, and she worked in a busy office. One evening in September, on the train home, she saw the ancestor photo trend for the first time. Then she had an idea. Her grandmother, Rosa, lived alone in a white house near the sea. Rosa loved jokes, and she always answered messages very quickly.
 
-B: You can listen and read at the same time.
+A: So Nora looked for an old photo. She found the website of a city museum, with thousands of old black and white photos. Then she stopped. One photo showed a young woman at a train station. The woman held an old bag in one hand and a camera in the other. She was not smiling, but her eyes were bright and strong. Under the photo, there were only three words. Unknown woman, 1968.
 
-A: You do not need to understand every word.
+A: Nora sent the photo to her grandmother. She wrote, Grandma, meet our ancestor! Usually, Rosa answered in one or two minutes. But this time, nothing came. Ten minutes passed. Then a whole hour. At nine in the evening, Nora finally got a call. It was her grandmother, but her voice sounded different. It was quiet and slow.
 
-A: Just follow the story.
+A: Nora, said Rosa, where did you find this photo? Nora explained about the museum and the trend. There was a long silence. Then Rosa said, Please come to my house on Sunday. I want to show you something. And she ended the call.
 
-B: Maya, why coffee? Why this week?
+B: Maya, I have to stop you here. Why is the grandmother not laughing?
 
-A: Because of something new this year.
+A: That is the mystery, Tom. Nora asked the same question all week. She looked at the photo again and again. And slowly, a strange feeling grew inside her.
 
-A: People are calling it the home cafe.
+A: On Sunday morning, Nora took the early train to the sea. Rosa made tea, and they sat at the old kitchen table, like always. On the table, there was the photo. Rosa had printed it at the library. For a long time, she only looked at the young woman. Then she put one finger on the face in the photo. Nora, she said quietly, this is not our ancestor. This is me.
 
-B: The home cafe. What does that mean?
+A: Nora did not know what to say. She knew the story of her grandmother very well. Or she thought she knew it. Rosa grew up in a small village by the sea. She worked in the family shop, she married, and she never left the village. But the woman in the photo was at a big train station in the city. And she was holding a camera.
 
-A: A cafe is a coffee shop.
+A: Grandma, said Nora, you never had a camera. You always say you are terrible with photos. Rosa went to her bedroom and came back with an old brown box. She opened it very carefully. Inside, there were hundreds of small, dark strips of film.
 
-A: It is a place where you buy coffee and sit down.
+B: Okay, Maya, I need help again. What are these dark strips?
 
-A: A home cafe is a coffee shop in your own kitchen.
+A: They are called negatives. Before phones, a camera used film. After you took your photos, the film became negatives. On negatives, everything looks the wrong way. Light things look dark, and dark things look light. From the negatives, you can make real photos on paper.
 
-B: Ah. So you make special coffee at home.
+B: So negatives are like the secret first copy of a photo.
 
-A: Yes. You make it slowly. You give it a name.
+A: Yes, that is a nice way to say it. Nora held one of the negatives up to the kitchen window. She saw a street market, and a man with a dog. Another one showed children playing in the water. Another one showed an old woman laughing at a bus stop. Grandma, said Nora, who took all these photos? Rosa looked out of the window at the sea. I did, she said.
 
-B: I like that. It is a small thing, but it is yours.
+A: And then, for the first time in more than fifty years, Rosa told the whole story. In the summer of 1968, she was 19 years old. She did not want to work in the shop forever. So she took the train to the city, alone, with one small bag. She found a job in a photo studio. The owner was an older man called Samuel. He was kind and patient, and he gave her an old camera. Every day after work, Rosa walked through the city and took photos of ordinary people.
 
-A: Our story starts on a Tuesday morning.
+A: It was the best summer of my life, said Rosa. But in September, her mother wrote a letter. The family shop was in trouble, and they needed her at home. On her last day, Samuel came with her to the train station. He took one photo of her there, with her bag and her camera. Then she got on the train, and she never went back.
 
-B: I am ready.
+B: Oh, so that is the photo from the museum. Samuel took it.
 
-A: Layla lives on the third floor of an old building.
+A: Yes. And Rosa never took a photo again. It hurt too much, she said. She put the negatives in a box, and the box went under her bed.
 
-A: Her apartment is very small.
+A: But how did the photo get into a museum? Together, they looked at the museum website again. At the bottom of the page, Nora found the answer. All the old photos came from one place. It was called the Samuel Weber archive.
 
-A: The kitchen is very small too.
+B: Archive. That is our third word, right?
 
-A: There is space for one person. That is all.
+A: That is right. An archive is a large collection of old papers, letters, or photos. People keep an archive so that the past does not get lost.
 
-A: She works at home, on a computer, all day.
+A: Nora wrote to the museum that same evening. Two days later, a woman from the museum called. Her name was Helen, and she worked with the archive every day. She said, there are more than two hundred photos in the archive with no name. Samuel wrote only one word on the back. Rosa.
 
-A: Most days she does not speak to anybody.
+A: For all those years, Samuel had kept the photos of his young student. He never forgot her name. When Nora told her grandmother, Rosa sat down by the window. She put her hand on her heart. Then, after a long time, there was a small smile on her face.
 
-A: But every morning, before she starts work, she makes coffee.
+A: In November, the museum opened a small show. On the wall, there were forty photos from that summer. The street market, the children in the water, the old woman at the bus stop. Under every photo, there was a name. Rosa. And in the middle of the wall was the photo from the train station. The old words were gone. Now it said, Rosa, photographer, at 19.
 
-A: And she does not make it quickly.
+A: When the show ended, Rosa and Nora walked to the train station. Rosa stopped in the same place as in the old photo. Then she held out her hand. Give me your phone, she said. She turned the phone to Nora, and she took a photo.
 
-A: First she puts hot water in the cup.
+A: It was a good photo. The light was perfect. Nora was laughing, and her eyes were bright. You see, said Rosa, I still have a good eye. That night, Nora sent the new photo to the whole family. Under it, she wrote a short message. Meet our ancestor. Her name is Rosa, and she is a photographer.
 
-A: This makes the cup warm.
+B: Oh, Maya. That ending is perfect. The joke became the truth.
 
-A: Then she takes the water out again.
+A: I think so too, Tom. And that is the end of our story.
 
-A: Then she uses her machine.
+B: Before we go, let us look at the three words again. First, ancestor. An ancestor is a person in your family who lived long before you. One day, Rosa will be an ancestor for the children of her family.
 
-A: The machine is old and it is very loud.
+A: The second word is negatives. Negatives are the dark strips of film from an old camera. Rosa kept her negatives in a box for more than fifty years.
 
-A: It makes a sound like a small car.
+B: And the third word is archive. An archive is a large collection of old papers or photos. The museum had the archive of Samuel, and that is how Nora found the photo.
 
-B: Maya, can I ask something?
+A: Here is our advice. Listen to this story again tomorrow. The second time, read the words on the screen and say them out loud with us.
 
-A: Of course.
+A: Thank you for listening to Mystery Nights. Good night, and see you next time.
 
-B: Is this the home cafe you talked about?
-
-A: Yes, this is it.
-
-A: Her kitchen is very small, but it is her cafe.
-
-B: And she is the only person in it.
-
-A: Yes. She is the worker, and she is the customer.
-
-A: Layla gives every drink a name.
-
-A: On Monday she uses warm milk and a little honey.
-
-A: She calls it the Monday Morning.
-
-A: On Friday she makes it stronger, with cold milk.
-
-A: She calls that one the End of the Week.
-
-A: Nobody else knows these names.
-
-A: She never tells anybody.
-
-A: It is just a game she plays with herself.
-
-B: That is a little sad.
-
-A: Maybe. But it is also very nice.
-
-A: It is the best part of her day.
-
-A: And then, one Tuesday morning, somebody is at her door.
-
-B: Oh.
-
-A: It is seven in the morning.
-
-A: Nobody comes to her door at seven in the morning.
-
-A: Layla stands very still in her kitchen.
-
-A: The machine is still making its loud noise.
-
-A: The sound at the door comes again.
-
-A: She turns the machine off and opens the door.
-
-A: There is a man there. He is old.
-
-A: He lives under her, on the second floor.
-
-A: She has seen him before, near the front door.
-
-A: They have never spoken.
-
-A: Layla is sure she knows why he is here.
-
-A: The noise. It is always the noise.
-
-A: I am sorry, she says. I know it is loud.
-
-A: I will make my coffee later. I am very sorry.
-
-A: The man puts up his hand.
-
-B: Wait. Is he angry?
-
-A: No. And that is the strange thing.
-
-A: He is not angry at all.
-
-A: He says, I am not here about the noise.
-
-A: He says, I hear that sound every morning at seven.
-
-A: And I have one question.
-
-A: Layla says nothing.
-
-A: What are you making up here? he says.
-
-A: It smells wonderful, and I do not know what it is.
-
-B: Oh! That is not what I thought.
-
-A: No. It is not what Layla thought, either.
-
-A: She stands in the door for a moment and says nothing.
-
-A: Then she says, it is only coffee.
-
-A: The man says, it is not only coffee.
-
-A: Coffee does not take twenty minutes.
-
-A: And he is right. It does take twenty minutes.
-
-A: Layla asks him to come in.
-
-A: He stands in the kitchen door.
-
-A: There is no space inside.
-
-A: She makes the coffee again, from the start.
-
-A: She shows him the hot water for the cup.
-
-A: She shows him the milk.
-
-A: She tells him the name of the drink.
-
-A: The Tuesday. It is not a good name, she says.
-
-A: The man says, it is a very good name.
-
-B: Maya, I have a question about a word.
-
-A: Yes?
-
-B: You said the coffee smells wonderful.
-
-B: What does wonderful mean?
-
-A: Wonderful means very, very good.
-
-A: Better than good. Something that makes you happy.
-
-B: So a wonderful morning is a very good morning.
-
-A: Yes. And his morning is going to get better.
-
-A: The man drinks the coffee at her small table.
-
-A: He is quiet for a long time.
-
-A: Then he tells her his name. It is Frank.
-
-A: And he tells her something else.
-
-A: Last year, his son gave him a coffee machine.
-
-A: A new one, a good one.
-
-A: It is in a box, under his bed.
-
-A: He has never opened it.
-
-B: Never? Why not?
-
-A: Because of the paper inside the box, Frank says.
-
-A: The words on it are very small.
-
-A: And there are many, many steps.
-
-A: He looked at it one time.
-
-A: Then he put it away.
-
-A: He says, I did not want to break it.
-
-A: He says, my son works in another city.
-
-A: I do not want to call him.
-
-A: I cannot say, your gift is too hard.
-
-B: Ah. Now I understand.
-
-A: Layla knows this feeling too.
-
-A: She says, bring the box up here.
-
-A: Frank says, now?
-
-A: She says, yes. Now. I have time.
-
-A: So Frank goes down to the second floor.
-
-A: He comes back up with a big white box.
-
-A: And they open it together on her small table.
-
-A: It takes them one hour.
-
-A: Layla says the small words out loud.
-
-A: Frank puts the parts together with his hands.
-
-A: He is slow, but he is careful.
-
-A: Then they put in the water, and they turn it on.
-
-A: The new machine is very quiet.
-
-A: Frank says, that is not right. It should make a noise.
-
-A: Layla says, the new ones are quiet.
-
-A: Frank says, I am not sure I like that.
-
-B: I am with Frank. I want to hear my coffee.
-
-A: They make coffee for two with the new machine.
-
-A: And they are good. They are very good.
-
-A: Frank takes his box back down to the second floor.
-
-A: And at the door he stops and turns around.
-
-A: He says, on Saturday, come down to my apartment.
-
-A: My kitchen is bigger than yours.
-
-A: And that is the end of the story.
-
-B: Wait. No, it is not. Tell them the last part.
-
-A: All right. The last part.
-
-A: Every Saturday now, they make coffee in Frank's kitchen.
-
-A: It is bigger. There is space for two people.
-
-A: And Frank gives the drinks names too.
-
-A: His first one was called The Box Under The Bed.
-
-B: That is a very good name.
-
-A: It is a wonderful name.
-
-B: So, what do we learn from this story?
-
-A: I think we learn one small thing.
-
-A: Layla thought the man at her door was angry.
-
-A: She was wrong.
-
-A: He was only a person who could smell something good.
-
-B: And he was a person with a box under his bed.
-
-A: Yes. Many people have a box under the bed.
-
-A: Something they want to do, and they do not start.
-
-B: Let us look at the words from today.
-
-A: The first word is cafe.
-
-A: A cafe is a coffee shop. A place to buy coffee and sit.
-
-B: And a home cafe is one in your own kitchen.
-
-A: The second word is smells.
-
-A: If something smells good, your nose is happy.
-
-A: Frank could smell the coffee from his apartment.
-
-B: The third word is wonderful.
-
-A: Wonderful means very, very good.
-
-A: Better than good.
-
-B: Good. Now, listen to this story again.
-
-B: The second time is always easier.
-
-A: And write down three new words.
-
-A: Say them out loud, in your own voice.
-
-B: Thank you for listening today.
-
-A: Thank you. And we will see you in the next story.
-
-B: Goodbye.
-
-A: Goodbye.
+B: Good night, everybody.
